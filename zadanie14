@@ -1,0 +1,121 @@
+C:\Users\Jan>javac C:\Users\Jan\IdeaProjects\untitled\src\zadanie6.java
+
+C:\Users\Jan>cd C:\Users\Jan\IdeaProjects\untitled\src
+
+C:\Users\Jan\IdeaProjects\untitled\src>dir
+ Volume in drive C has no label.
+ Volume Serial Number is CCC7-0D66
+
+ Directory of C:\Users\Jan\IdeaProjects\untitled\src
+
+10.03.2023  22:00    <DIR>          .
+10.03.2023  22:00    <DIR>          ..
+09.03.2023  21:11             1 465 IloczynSkalarny.java
+09.03.2023  17:39             1 305 Main.java
+10.03.2023  11:17               898 Panagram.java
+10.03.2023  11:17               966 zadani11.java
+10.03.2023  11:41               437 zadanie1.java
+09.03.2023  17:48             1 019 zadanie10.java
+10.03.2023  17:38             2 070 zadanie12.java
+10.03.2023  19:04             1 003 zadanie13.java
+10.03.2023  11:41               433 zadanie2.java
+10.03.2023  19:08               422 zadanie3.java
+10.03.2023  19:09             1 367 zadanie4.java
+10.03.2023  19:13             2 607 zadanie5.java
+10.03.2023  22:00             1 403 zadanie6.class
+10.03.2023  21:42             1 224 zadanie6.java
+              14 File(s)         16 619 bytes
+               2 Dir(s)  126 331 498 496 bytes free
+
+C:\Users\Jan\IdeaProjects\untitled\src>java zadanie6
+WEJĹšCIE:
+1
+2
+3
+WYJĹšCIE:
+1.0 2.0 3.0
+3.0 2.0 1.0
+
+C:\Users\Jan\IdeaProjects\untitled\src>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
